@@ -1,0 +1,3 @@
+rootProject.name = 'JiraAPI'
+include 'Jira'
+
